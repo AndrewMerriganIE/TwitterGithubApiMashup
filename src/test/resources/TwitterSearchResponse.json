@@ -1,0 +1,86 @@
+{
+	"statuses": [
+		{
+			"created_at": "Sun Dec 10 19:41:09 +0000 2017",
+			"id": 939943086473363456,
+			"id_str": "939943086473363456",
+			"text": "reacts",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "maggieNYT",
+						"name": "Maggie Haberman",
+						"id": 93069110,
+						"id_str": "93069110",
+						"indices": [
+							3,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20739586,
+				"id_str": "20739586",
+				"name": "(((Gabriel Hyena)))",
+				"screen_name": "DemonKia",
+				"location": "Earth",
+				"description": "I've had an abortion. Mostly here to read news. Compassion. Anti-oppression. Black Lives Matter. \u00a1S\u00cd SE PUEDE! I'd rather be laughing.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 873,
+				"friends_count": 4995,
+				"listed_count": 0,
+				"created_at": "Fri Feb 13 01:50:30 +0000 2009",
+				"favourites_count": 28995,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24199,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/4441486\/smgloriousclouds4.JPG",
+				"profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/4441486\/smgloriousclouds4.JPG",
+				"profile_background_tile": true,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/827669732941713408\/l_JqUeH8_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/827669732941713408\/l_JqUeH8_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/20739586\/1485585442",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "E98701",
+				"profile_sidebar_fill_color": "FFFEE5",
+				"profile_text_color": "C45486",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			}
+		}
+	]
+}
